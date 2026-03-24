@@ -1,0 +1,33 @@
+App Name: Vitamin Shelf
+Subtitle: Supplement & Pill Tracker
+Bundle ID: aslantabureci.vitaminshelf
+SKU: vitaminshelf2026
+Apple ID: 6780000002
+Category: Health & Fitness (primary), Utilities (secondary)
+Content Rights: Does not contain third-party content
+Age Rating: 4+
+Pricing: Free
+
+Description:
+Take control of your supplement routine with Vitamin Shelf — the smart tracker that helps you stay consistent with your vitamins, minerals, and supplements.
+
+Pre-loaded with 20 popular supplements including Vitamin D3, Omega-3, Magnesium, and more. Activate the ones you take, set your schedule, and track every dose throughout the day.
+
+Features:
+• 20 pre-loaded popular supplements ready to activate
+• Daily dose schedule with one-tap tracking
+• Push notification reminders at your scheduled times
+• Pill count tracking with low stock alerts
+• 28-day calendar view with color-coded adherence
+• Weekly adherence charts and streak tracking
+• Most missed supplements analysis
+• Category breakdown (vitamins, minerals, herbs, amino acids, omega, probiotics)
+• Activate, pause, or mute any supplement
+• Quick refill to reset pill count
+• Add custom supplements with flexible dosing
+• Clean dark interface with amber accents
+• All data stored locally — no account required
+
+Keywords: vitamin,supplement,pill,tracker,reminder,health,dose,medication,wellness,daily
+
+Privacy URL: https://sites.google.com/view/vitaminshelf-privacy
