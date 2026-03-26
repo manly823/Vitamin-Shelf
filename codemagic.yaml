@@ -5,16 +5,16 @@ workflows:
     instance_type: mac_mini_m2
 
     integrations:
-      app_store_connect: EDEN RUSSEL
+      app_store_connect: Tahsin Buldan
 
     environment:
       ios_signing:
         distribution_type: app_store
-        bundle_identifier: aslantabureci.vitaminshelf
+        bundle_identifier: tahsinbuldan.vitaminshelfapp
       vars:
         XCODE_PROJECT: "VitaminShelf.xcodeproj"
         XCODE_SCHEME: "VitaminShelf"
-        APP_STORE_APP_ID: "6780000002"
+        APP_STORE_APP_ID: "6761202035"
       xcode: 16.1
 
     scripts:
